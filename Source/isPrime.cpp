@@ -1,3 +1,4 @@
+// Kiểm tra số nguyên tố 
 #include <bits/stdc++.h>
 using namespace std;
 bool isPrime(int n){
