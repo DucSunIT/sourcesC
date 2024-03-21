@@ -1,3 +1,4 @@
+// kiểm tra số hoàn hảo by ducsunit
 #include <bits/stdc++.h>
 using namespace std;
 bool perfectNumber(int n){

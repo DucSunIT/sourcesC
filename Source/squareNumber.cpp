@@ -1,3 +1,4 @@
+// kiểm tra số chính phương by ducsunit
 #include <bits/stdc++.h>
 using namespace std;
 #define ll long long

@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 /*TikTok: ducsunit*/
+=======
+// Kiểm tra số nguyên tố 
+>>>>>>> 25891f1085331fcf822598934beda1dcc130e086
 #include <bits/stdc++.h>
 using namespace std;
 bool isPrime(int n)
